@@ -38,13 +38,11 @@
 .title_page {
   height: 200px;
   background-color: red;
-  padding: 75px 0;
 }
 
 .form_login {
   height: 200px;
   background-color: yellow;
-  padding: 75px 0;
   position: relative;
 }
 
@@ -60,3 +58,27 @@
 /* /jumbotron */
 /* /header */
 /* main */
+/* prima sezione */
+
+.link_partner {
+  background-color: #f3f5f9;
+  padding: 20px 0;
+}
+
+.main_ttl {
+  height: 50px;
+  background-color: pink;
+}
+
+.brand_list {
+  height: 50px;
+  background-color: blue;
+}
+
+.img_brand {
+  height: 50px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+/* /prima sezione */
