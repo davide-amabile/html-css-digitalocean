@@ -1,0 +1,29 @@
+.header_top {
+  height: 70px;
+  background-color: red;
+}
+
+.nav_logo {
+  height: 70px;
+  background-color: yellow;
+}
+
+.nav_link {
+  height: 70px;
+  background-color: blue;
+}
+
+.nav_products {
+  height: 70px;
+  background-color: green;
+}
+
+.nav_login {
+  height: 70px;
+  background-color: grey;
+}
+
+.hmg_nav {
+  height: 70px;
+  background-color: blue;
+}
