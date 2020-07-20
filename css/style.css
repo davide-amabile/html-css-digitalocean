@@ -27,3 +27,32 @@
   height: 70px;
   background-color: blue;
 }
+/* /navbar */
+
+.jumb {
+  background-color: lightblue;
+  padding: 20px 0;
+}
+
+.title_page {
+  height: 200px;
+  background-color: red;
+  padding: 75px 0;
+}
+
+.form_login {
+  height: 200px;
+  background-color: yellow;
+  padding: 75px 0;
+  position: relative;
+}
+
+.form_dv {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
