@@ -60,26 +60,15 @@
 /* main */
 /* prima sezione */
 
-.link_partner {
-  background-color: #f3f5f9;
-  padding: 20px 0;
-}
-
-.main_ttl {
-  height: 20px;
-  background-color: pink;
-}
-
 .brand_list {
-  height: 20px;
-  background-color: blue;
+  background-color: red;
 }
 
-.img_brand {
+.brand_img {
   height: 20px;
-  background-color: white;
   border: 1px solid black;
 }
+
 
 /* /prima sezione */
 
@@ -87,7 +76,6 @@
 
 .sct_2 {
   border: 1px solid black;
-  padding: 35px 0;
 }
 
 .list_
