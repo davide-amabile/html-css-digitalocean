@@ -28,6 +28,7 @@
   background-color: blue;
 }
 /* /navbar */
+/* jumbotron */
 
 .jumb {
   background-color: lightblue;
@@ -56,3 +57,6 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+/* /jumbotron */
+/* /header */
+/* main */
