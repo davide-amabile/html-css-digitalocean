@@ -74,8 +74,9 @@
 
 /* seconda sezione */
 
-.sct_2 {
+.list_2_sct {
+  height: 100px;
   border: 1px solid black;
 }
 
-.list_
+/* /seconda sezione */
