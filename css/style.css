@@ -99,4 +99,11 @@
   height: 150px;
   background: red;
 }
-/* terza sezione */
+/*/ terza sezione */
+/* quarta sezione */
+
+.box_feat {
+  height: 150px;
+  border: 1px solid black;
+}
+/* /quarta sezione */
