@@ -80,3 +80,23 @@
 }
 
 /* /seconda sezione */
+/* terza sezione */
+
+.menu_freccie {
+  border: 1px solid black;
+}
+
+.arrow {
+  height: 150px;
+  background-color: lightblue;
+}
+
+.menu_freccie .middle {
+  height: 150px;
+  background-color: yellow;
+}
+.menu_middle {
+  height: 150px;
+  background: red;
+}
+/* terza sezione */
