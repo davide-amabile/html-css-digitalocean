@@ -61,23 +61,58 @@
 }
 
 .title_page {
-  height: 200px;
   color: #fff;
 }
 
-.form_login {
-  height: 200px;
-  position: relative;
-}
 
 .form_dv {
-  width: 100px;
-  height: 100px; /
   background-color: #fff;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  padding: 20px;
+}
+
+
+.form_dv .get {
+  color: #004aff;
+}
+
+.form_jumb {
+  padding: 10px 0;
+}
+
+.form_email, .form_pass {
+  margin-bottom: 5px;:
+}
+
+.account {
+  background-color:  #004aff;
+  border: 1px solid  #004aff;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.account a {
+  color: #fff;
+}
+.email_sub {
+  border: 1px solid grey;
+  border-radius: 5px;
+  height: 30px;
+  line-height: 30px;
+}
+
+.email_sub img {
+  max-width: 20px;
+}
+
+.email_sub p {
+  display: inline-block;
+  text-align: center;
+}
+
+
+#terms {
+ font-size: 0.8rem;
+ text-align: center;
 }
 /* /jumbotron */
 /* /header */
