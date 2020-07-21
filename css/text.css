@@ -56,7 +56,7 @@
 .jumb {
   background-color: #004aff;
   padding: 20px 0;
-  height: 300px;
+  /* height: 350px; */
 }
 
 .title_page {
@@ -72,17 +72,13 @@
 }
 
 .form_dv {
-  /* width: 100px;
-  height: 100px; */
-  background-color: white;
-  position: absolute;
-  /* top: 50%; */
-  left: 50%;
-  transform: translate(-50%);
-  padding: 20px 20px;
+  background-color: #fff;
+  padding: 20px;
 }
 
-#get {
+/
+
+.form_dv .get {
   color: #004aff;
 }
 
@@ -98,10 +94,26 @@
   background-color:  #004aff;
   border: 1px solid  #004aff;
   border-radius: 5px;
+  margin-bottom: 5px;
 }
 
 .account a {
   color: #fff;
+}
+.email_sub {
+  margin: 5px 0;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+.email_sub i {
+  padding-right: 32px;
+  padding-left: 2px;
+}
+
+#terms {
+ font-size: 0.8rem;
+ text-align: center;
 }
 /* /jumbotron */
 /* /header */
