@@ -100,8 +100,16 @@
   line-height: 30px;
 }
 
+
+.button_gmail {
+  position: relative;
+}
+
 .button_gmail img {
- width: 10px;
+ max-width: 30px;
+ text-align: left;
+ position: absolute;
+ left: 10px;
 }
 
 .email_sub p {
