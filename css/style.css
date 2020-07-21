@@ -1,26 +1,46 @@
 .header_top {
   height: 70px;
-  background-color: red;
+  background-color: #fff;
+  line-height: 70px;
 }
 
 .nav_logo {
   height: 70px;
-  background-color: yellow;
+}
+
+.nav_logo img {
+  max-width: 80%;
 }
 
 .nav_link {
   height: 70px;
-  background-color: blue;
 }
 
 .nav_products {
   height: 70px;
-  background-color: green;
+}
+
+.header_top ul li {
+  display: inline-block;
+  list-style: none;
+  font-size: 1.1rem;
+  padding: 0 3px;
+  text-transform: capitalize;
+}
+
+.header_top ul li i {
+  padding-left: 2px;
+}
+
+.nav_login ul a {
+  border: 1px solid lightblue;
+  font-size: 1.1rem;
+  padding: 5px 5px;
+  border-radius: 5px;
 }
 
 .nav_login {
   height: 70px;
-  background-color: grey;
 }
 
 .hmg_nav {
