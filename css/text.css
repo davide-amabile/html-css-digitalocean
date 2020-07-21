@@ -60,16 +60,11 @@
 }
 
 .title_page {
-  /* height: 200px; */
     color: #fff;
 }
 
 
-.form_login {
-  /* height: 200px; */
-  /* background-color: yellow; */
-  position: relative;
-}
+
 
 .form_dv {
   background-color: #fff;
@@ -101,15 +96,21 @@
   color: #fff;
 }
 .email_sub {
-  margin: 5px 0;
   border: 1px solid grey;
   border-radius: 5px;
+  height: 30px;
+  line-height: 30px;
 }
 
-.email_sub i {
-  padding-right: 32px;
-  padding-left: 2px;
+.email_sub img {
+  max-width: 20px;
 }
+
+.email_sub p {
+  display: inline-block;
+  text-align: center;
+}
+
 
 #terms {
  font-size: 0.8rem;
