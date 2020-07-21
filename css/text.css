@@ -136,3 +136,23 @@
 .foot_up {
   border: 1px solid black;
 }
+
+.foot_bottom {
+  background-color: blue;
+}
+
+.logo_foot {
+  height: 100px;
+  background-color: red;
+}
+
+
+.list_foot {
+  /* height: 100px; */
+  background-color: lightblue;
+}
+
+.foot_box_list {
+  height: 100px;
+  border: 1px solid black;
+}
