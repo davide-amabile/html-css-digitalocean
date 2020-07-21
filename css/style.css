@@ -127,13 +127,27 @@
 /* main */
 /* prima sezione */
 
-.brand_list {
-  background-color: red;
-}
 
 .brand_img {
-  height: 20px;
-  border: 1px solid black;
+  height: 50px;
+  position: relative;
+}
+
+.brand_img img{
+  max-width: 100px;
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+}
+
+.h5_img {
+  margin: 20px 0;
+  text-transform: uppercase;
+}
+
+.link_img {
+  margin: 20px 0;
 }
 
 
