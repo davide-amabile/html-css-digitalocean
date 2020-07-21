@@ -1,0 +1,138 @@
+.header_top {
+  height: 70px;
+  background-color: red;
+}
+
+.nav_logo {
+  height: 70px;
+  background-color: yellow;
+}
+
+.nav_link {
+  height: 70px;
+  background-color: blue;
+}
+
+.nav_products {
+  height: 70px;
+  background-color: green;
+}
+
+.nav_login {
+  height: 70px;
+  background-color: grey;
+}
+
+.hmg_nav {
+  height: 70px;
+  background-color: blue;
+}
+
+/* /navbar */
+/* jumbotron */
+
+.jumb {
+  background-color: lightblue;
+  padding: 20px 0;
+}
+
+.title_page {
+  height: 200px;
+  background-color: red;
+}
+
+.form_login {
+  height: 200px;
+  background-color: yellow;
+  position: relative;
+}
+
+.form_dv {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+/* /jumbotron */
+/* /header */
+/* main */
+/* prima sezione */
+
+.brand_list {
+  background-color: red;
+}
+
+.brand_img {
+  height: 20px;
+  border: 1px solid black;
+}
+
+
+/* /prima sezione */
+/* seconda sezione */
+
+.list_2_sct {
+  height: 100px;
+  border: 1px solid black;
+}
+
+/* /seconda sezione */
+/* terza sezione */
+
+.menu_freccie {
+  border: 1px solid black;
+}
+
+.arrow {
+  height: 150px;
+  background-color: lightblue;
+}
+
+.menu_freccie .middle {
+  height: 150px;
+  background-color: yellow;
+}
+.menu_middle {
+  height: 150px;
+  background: red;
+}
+/*/ terza sezione */
+/* quarta sezione */
+
+.box_feat {
+  height: 150px;
+  border: 1px solid black;
+}
+/* /quarta sezione */
+/* /quinta sezione */
+
+.box_5 {
+  background-color: darkblue;
+  padding: 15px 0;
+  margin-top: 5px;
+}
+
+.list_city {
+  height: 300px;
+  background-color: yellow;
+  border: 1px solid black;
+}
+/* /quinta sezione */
+/* sesta sezione */
+
+.box_6 {
+  background-color: red;
+  padding: 15px 0;
+}
+
+/* /sesta sezionne */
+/* /main */
+
+/* footer */
+
+.foot_up {
+  border: 1px solid black;
+}
