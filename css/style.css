@@ -72,7 +72,7 @@
 
 .form_dv {
   width: 100px;
-  height: 100px;
+  height: 100px; /
   background-color: #fff;
   position: absolute;
   top: 50%;

@@ -56,31 +56,52 @@
 .jumb {
   background-color: #004aff;
   padding: 20px 0;
+  height: 300px;
 }
 
 .title_page {
-  height: 200px;
+  /* height: 200px; */
     color: #fff;
 }
 
-h1 {
-  /* color: #fff; */
-}
 
 .form_login {
-  height: 200px;
+  /* height: 200px; */
   /* background-color: yellow; */
   position: relative;
 }
 
 .form_dv {
-  width: 100px;
-  height: 100px;
+  /* width: 100px;
+  height: 100px; */
   background-color: white;
   position: absolute;
-  top: 50%;
+  /* top: 50%; */
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%);
+  padding: 20px 20px;
+}
+
+#get {
+  color: #004aff;
+}
+
+.form_jumb {
+  padding: 10px 0;
+}
+
+.form_email, .form_pass {
+  margin-bottom: 5px;:
+}
+
+.account {
+  background-color:  #004aff;
+  border: 1px solid  #004aff;
+  border-radius: 5px;
+}
+
+.account a {
+  color: #fff;
 }
 /* /jumbotron */
 /* /header */
