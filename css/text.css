@@ -54,18 +54,22 @@
 /* jumbotron */
 
 .jumb {
-  background-color: lightblue;
+  background-color: #004aff;
   padding: 20px 0;
 }
 
 .title_page {
   height: 200px;
-  background-color: red;
+    color: #fff;
+}
+
+h1 {
+  /* color: #fff; */
 }
 
 .form_login {
   height: 200px;
-  background-color: yellow;
+  /* background-color: yellow; */
   position: relative;
 }
 
