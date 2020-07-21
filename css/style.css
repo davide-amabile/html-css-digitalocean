@@ -2,6 +2,11 @@
   height: 70px;
   background-color: #fff;
   line-height: 70px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
 }
 
 .nav_logo {
@@ -52,6 +57,7 @@
 .jumb {
   background-color: lightblue;
   padding: 20px 0;
+  margin-top: 70px;
 }
 
 .title_page {
