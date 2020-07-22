@@ -138,43 +138,57 @@
 /* seconda sezione */
 
 .list_2_sct {
- padding: 10px;
+ /* padding: 10px 0; */
  background-color: #f3f5f9;
 }
 
 .list_2_sct li {
   list-style: none;
   border-left: 1px solid black;
-  padding-left: 5px;
   padding-bottom: 5px;
+  padding-left: 5px;
 }
 
-.box_static {
-  padding-left: 30px;
-}
 
 /* /seconda sezione */
 /* terza sezione */
-.thr_sct {
-  background-color:
+#thr_sct {
+  background-color:  #f3f5f9;
 }
 
 .menu_freccie {
   border: 1px solid black;
 }
 
-.arrow {
+.arrow_left, .arrow_right {
   height: 150px;
-  background-color: lightblue;
+  position: relative;
 }
 
+.arrow_left i {
+  position: absolute;
+  right:10px;
+  top:40%;
+  font-size: 3rem;
+}
+
+.arrow_right i {
+  position: absolute;
+  left:10px;
+  top:40%;
+  font-size: 3rem;
+}
 .menu_freccie .middle {
   height: 150px;
-  background-color: yellow;
+  background-color: #fff;
 }
 .menu_middle {
   height: 150px;
-  background: red;
+  background-color: #011d4c;
+}
+
+.menu_middle img {
+  padding-top: 10px;
 }
 /*/ terza sezione */
 /* quarta sezione */

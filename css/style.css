@@ -163,7 +163,6 @@
 }
 
 .list_2_sct {
- padding: 10px;
  background-color: #f3f5f9;
 }
 
@@ -174,18 +173,20 @@
   padding-bottom: 5px;
 }
 
-.box_static {
-  padding-left: 30px;
-}
+
 
 /* /seconda sezione */
 /* terza sezione */
+
+#thr_sct {
+  background-color:  #f3f5f9;
+}
 
 .menu_freccie {
   border: 1px solid black;
 }
 
-.arrow {
+.arrow_left, .arrow_right {
   height: 150px;
   background-color: lightblue;
 }
