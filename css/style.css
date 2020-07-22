@@ -177,28 +177,71 @@
 
 /* /seconda sezione */
 /* terza sezione */
-
 #thr_sct {
   background-color:  #f3f5f9;
 }
 
 .menu_freccie {
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
 
 .arrow_left, .arrow_right {
-  height: 150px;
-  background-color: lightblue;
+  position: relative;
 }
 
+.arrow_left i {
+  position: absolute;
+  right:10px;
+  top:40%;
+  font-size: 3rem;
+}
+
+.arrow_right i {
+  position: absolute;
+  left:10px;
+  top:40%;
+  font-size: 3rem;
+}
 .menu_freccie .middle {
-  height: 150px;
-  background-color: yellow;
+  background-color: #fff;
 }
 .menu_middle {
-  height: 150px;
-  background: red;
+  background-color: #011d4c;
+  color: #fff;
 }
+
+.menu_middle img {
+  padding-top: 10px;
+  max-width: 80%;
+}
+
+.menu_middle h2 {
+  font-size: 0.8rem;;
+}
+
+.menu_middle i {
+  color: lightblue;
+  padding-right: 10px;
+}
+
+.menu_middle p, .menu_middle a {
+  font-size: 0.9rem;
+}
+
+.menu_middle ul {
+  text-align: left;
+  border-top: 1px solid white;
+  padding-left: 0;
+  padding-top: 5px;
+}
+
+.menu_middle li {
+  font-size: 0.8rem;
+  list-style: none;
+  padding-top: 5px;
+}
+/* /terza sezione */
+
 /*/ terza sezione */
 /* quarta sezione */
 
