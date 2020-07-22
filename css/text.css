@@ -161,7 +161,6 @@
 }
 
 .arrow_left, .arrow_right {
-  height: 150px;
   position: relative;
 }
 
@@ -179,17 +178,31 @@
   font-size: 3rem;
 }
 .menu_freccie .middle {
-  height: 150px;
   background-color: #fff;
 }
 .menu_middle {
-  height: 150px;
   background-color: #011d4c;
+  color: #fff;
 }
 
 .menu_middle img {
   padding-top: 10px;
+  max-width: 80%;
 }
+
+.menu_middle h2 {
+  font-size: 0.8rem;;
+}
+
+.menu_middle i {
+  color: lightblue;
+  padding-right: 10px;
+}
+
+.menu_middle p, .menu_middle a {
+  font-size: 0.9rem;
+}
+
 /*/ terza sezione */
 /* quarta sezione */
 
