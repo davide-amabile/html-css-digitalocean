@@ -181,11 +181,10 @@
   background-color:  #f3f5f9;
 }
 
-.menu_freccie {
-  /* border: 1px solid black; */
-}
+
 
 .arrow_left, .arrow_right {
+  height: 348.66px;
   position: relative;
 }
 
@@ -240,14 +239,46 @@
   list-style: none;
   padding-top: 5px;
 }
+
+.main_menu {
+  height: 50px;
+  line-height: 50px;
+}
+
+.menu_search {
+  font-size: 0.9rem;
+}
+
+.nav_middle ul li{
+  display: inline-block;
+  text-decoration: none;
+  list-style: none;
+  padding: 0 3px;
+  font-size: 1.2rem;
+}
+
+.point_middle li{
+  display: inline-block;
+}
+
+@media screen and (max-width: 1000px) {
+  .menu_search {
+    font-size: 0.5rem;
+  }
+}
+
+
 /* /terza sezione */
 
 /*/ terza sezione */
 /* quarta sezione */
 
 .box_feat {
-  height: 150px;
-  border: 1px solid black;
+  padding: 10px 0;
+}
+
+.box_feat img {
+  max-width: 50px;
 }
 /* /quarta sezione */
 /* /quinta sezione */
