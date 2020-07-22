@@ -63,15 +63,11 @@
     color: #fff;
 }
 
-
-
-
 .form_dv {
   background-color: #fff;
   padding: 20px;
 }
 
-/
 
 .form_dv .get {
   color: #004aff;
@@ -142,12 +138,26 @@
 /* seconda sezione */
 
 .list_2_sct {
-  height: 100px;
-  border: 1px solid black;
+ padding: 10px;
+ background-color: #f3f5f9;
+}
+
+.list_2_sct li {
+  list-style: none;
+  border-left: 1px solid black;
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+
+.box_static {
+  padding-left: 30px;
 }
 
 /* /seconda sezione */
 /* terza sezione */
+.thr_sct {
+  background-color:
+}
 
 .menu_freccie {
   border: 1px solid black;
